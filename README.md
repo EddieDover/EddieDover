@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/eddiedover/im-a-cm-b.svg)](https://www.codementor.io/@eddiedover?refer=badge)
+
 <!--
 **EddieDover/EddieDover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
