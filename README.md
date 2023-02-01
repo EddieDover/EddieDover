@@ -2,6 +2,8 @@
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/eddiedover/book-session.svg)](https://www.codementor.io/@eddiedover?refer=badge)
 
+![My Stats](https://github-readme-stats.vercel.app/api?username=EddieDover&show_icons=true)
+
 <!--
 **EddieDover/EddieDover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
