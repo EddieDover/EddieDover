@@ -15,5 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_year
-          STOP_AT_OTHER: true
+          LANG_COUNT: 10
           COMMIT_MESSAGE:	Updated waka-readme graph with new metrics
