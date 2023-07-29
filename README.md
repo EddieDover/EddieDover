@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/eddiedover/book-session.svg)](https://www.codementor.io/@eddiedover?refer=badge)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=EddieDover&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&rank_icon=percentile"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieDover&theme=dracula&hide_border=false&&layout=compact&langs_count=20" />
 
-<!--![My Stats](https://github-readme-stats.vercel.app/api?username=EddieDover&show_icons=true)-->
-
+<div style="max-width:800px">
+<figure><embed src="https://wakatime.com/share/@EddieDover/7a298162-205a-4a99-b2f5-447c1fa7d2e6.svg"></embed></figure>
+</div>
 <!--
 **EddieDover/EddieDover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
