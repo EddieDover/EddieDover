@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=EddieDover&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&rank_icon=percentile"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieDover&theme=dracula&hide_border=false&&layout=compact&langs_count=20" />
+![](https://raw.githubusercontent.com/eddiedover/ghstats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/eddiedover/ghstats/master/generated/languages.svg)
 
 <!--START_SECTION:waka-->
 
