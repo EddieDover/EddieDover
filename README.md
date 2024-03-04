@@ -23,6 +23,6 @@ SCSS             9 hrs 26 mins   ▒░░░░░░░░░░░░░░�
 
   ![Player Achievements - Latest Release Download Count](https://img.shields.io/badge/dynamic/json?label=Player%20Achievements%20-%20Downloads@latest&query=assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FEddieDover%2Ffvtt-player-achievements%2Freleases%2Flatest)
 
-  ![Theater of the Mind - Latest Release Download Count](https://img.shields.io/badge/dynamic/json?label=Theater%20Of%20The%20Mind%20-%20Downloads@latest&query=assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FEddieDover%2Ftheater-of-the-mind%2Freleases%2Flatest)
+  ![Party Sheet - Latest Release Download Count](https://img.shields.io/badge/dynamic/json?label=Party%20Sheet%20-%20Downloads@latest&query=assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FEddieDover%2Ffvtt-party-sheet%2Freleases%2Flatest)
 
 <a rel="me" href="https://techhub.social/@EddieDover"></a>
