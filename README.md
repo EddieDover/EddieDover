@@ -26,3 +26,5 @@ CMake              4 hrs 51 mins   ▒░░░░░░░░░░░░░░
   ![Party Sheet - Latest Release Download Count](https://img.shields.io/badge/dynamic/json?label=Party%20Sheet%20-%20Downloads@latest&query=assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FEddieDover%2Ffvtt-party-sheet%2Freleases%2Flatest)
 
 <a rel="me" href="https://techhub.social/@EddieDover"></a>
+
+Contact me on Discord - eddiedover
